@@ -1,6 +1,6 @@
 LATEX=xelatex
 BIBTEX=bibtex
-STEM="sample-acmsmall-conf"
+STEM="main"
 
 all : commands
 
